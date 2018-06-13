@@ -12,6 +12,8 @@
 
   Written by Limor Fried/Ladyada for Adafruit Industries.  
   BSD license, all text above must be included in any redistribution
+  
+  IMPORTANT: TO EXECUTE THIS FILE, INSTALL THE ADAFRUIT "MAX31855" ARDUINO LIBRARY
  ****************************************************/
 
 #include <SPI.h>
